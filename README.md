@@ -56,13 +56,17 @@
 
 <hr/>
 
+<div align="center">
+<a href="https://app.daily.dev/dids"><img src="https://api.daily.dev/devcards/ce5ad37da6594d2796a52f450555d4b3.png?r=xw3" width="400" alt="Dids Irwyn Reyes's Dev Card"/></a>
+</div>
+
+<hr/>
+
 ### :octocat: Github Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=skedaddl3&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skedaddl3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://app.daily.dev/dids"><img src="https://api.daily.dev/devcards/ce5ad37da6594d2796a52f450555d4b3.png?r=xw3" width="400" alt="Dids Irwyn Reyes's Dev Card"/></a>
 
 <div align="center">
 <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="300" width="300"/>
