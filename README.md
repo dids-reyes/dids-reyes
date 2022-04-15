@@ -57,7 +57,7 @@
 <hr/>
 
 <div align="center">
-<a href="https://app.daily.dev/dids"><img src="https://api.daily.dev/devcards/ce5ad37da6594d2796a52f450555d4b3.png?r=xw3" width="400" alt="Dids Irwyn Reyes's Dev Card"/></a>
+<a href="https://app.daily.dev/dids"><img src="https://api.daily.dev/devcards/ce5ad37da6594d2796a52f450555d4b3.png?r=1i4" width="400" alt="Dids Irwyn Reyes's Dev Card"/></a>
 </div>
 
 <hr/>
