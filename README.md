@@ -64,9 +64,9 @@
 
 ### :octocat: Github Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skedaddl3&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skedaddl3&theme=dark&show_icons=true) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=skedaddl3&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=skedaddl3&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skedaddl3&langs_count=8&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
