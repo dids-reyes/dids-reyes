@@ -60,12 +60,13 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skedaddl3&langs_count=8&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) <a href="https://app.daily.dev/dids"><img src="https://api.daily.dev/devcards/ce5ad37da6594d2796a52f450555d4b3.png?r=r08" width="300" alt="Dids Irwyn Reyes's Dev Card"/></a>  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skedaddl3&theme=dark&show_icons=true) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=skedaddl3&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skedaddl3&langs_count=8&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) <a href="https://app.daily.dev/dids"><img src="https://api.daily.dev/devcards/ce5ad37da6594d2796a52f450555d4b3.png?r=r08" width="300" alt="Dids Irwyn Reyes's Dev Card"/></a>  
 
-<hr/>
 
 <div align="center">
 <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="300" width="300"/>
+</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skedaddl3&theme=dark&show_icons=true) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=skedaddl3&theme=green_nur&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
 </div>
