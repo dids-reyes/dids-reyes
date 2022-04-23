@@ -60,7 +60,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skedaddl3&langs_count=8&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) <a href="https://app.daily.dev/dids"><img src="https://api.daily.dev/devcards/ce5ad37da6594d2796a52f450555d4b3.png?r=r08" width="300" alt="Dids Irwyn Reyes's Dev Card"/></a>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skedaddl3&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <a href="https://app.daily.dev/dids"><img src="https://api.daily.dev/devcards/ce5ad37da6594d2796a52f450555d4b3.png?r=rz2" width="299" alt="Dids Irwyn Reyes's Dev Card"/></a>
 
 
 <div align="center">
