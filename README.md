@@ -28,11 +28,12 @@
 
 <h3>:man_technologist: About Me:</h3>
 
+- Currently Working at [Pragtechnologies](https://www.pragtechnologies.com/)
 - Developer from Philippines :philippines:
 - I'm interested in Mobile and Web Development, Machine Learning & Artificial Conversational Entity :robot:
 - Studied Computer Science at EARIST :man_student:
 
-:mailbox_with_mail: Email: reyes.dids.bscs@gmail.com
+:mailbox_with_mail: Email: dids.irwyn@gmail.com
 
 <hr/>
 
