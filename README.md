@@ -37,7 +37,7 @@
 - I'm interested in Mobile and Web Development, Machine Learning & Artificial Conversational Entity :robot:
 - Studied Computer Science at EARIST :man_student:
 
-:mailbox_with_mail: Email: dids.irwyn@gmail.com
+:mailbox_with_mail: Email: dids.reyes@protonmail.com
 
 <hr/>
 
