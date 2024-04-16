@@ -14,7 +14,7 @@
 <img src="https://camo.githubusercontent.com/ae469df0ca892760cf6edd0c12b154d6d18dd56c019ad0fc12d881c17d3db3d3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d46616365626f6f6b26636f6c6f723d313837374632266c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Facebook Badge"/>
   </a>
 -->
-<!--  <a href="https://t.me/skedaddl3">
+<!--  <a href="https://t.me/dids-reyes">
  <img src="https://camo.githubusercontent.com/6f137f6e48f123181ee64838b8aa29e5e3cf4e69a8999e7056f4df2e3331c4b9/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d54656c656772616d26636f6c6f723d323641354534266c6f676f3d54656c656772616d266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Telegram Badge"/>
   </a>
   -->
@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-<!--<img src="https://komarev.com/ghpvc/?username=skedaddl3" alt=""/>-->
+<!--<img src="https://komarev.com/ghpvc/?username=dids-reyes" alt=""/>-->
 </div>
 
 <hr/>
@@ -75,13 +75,13 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skedaddl3&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <a href="https://app.daily.dev/dids"><img src="https://api.daily.dev/devcards/ce5ad37da6594d2796a52f450555d4b3.png?r=rz2" width="299" alt="Dids Irwyn Reyes's Dev Card"/></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dids-reyes&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <a href="https://app.daily.dev/dids"><img src="https://api.daily.dev/devcards/ce5ad37da6594d2796a52f450555d4b3.png?r=rz2" width="299" alt="Dids Irwyn Reyes's Dev Card"/></a>
 
 
 <div align="center">
 <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="300" width="300"/>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skedaddl3&theme=dark&show_icons=true) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=skedaddl3&theme=green_nur&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dids-reyes&theme=dark&show_icons=true) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dids-reyes&theme=green_nur&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 </div>
