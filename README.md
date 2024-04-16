@@ -82,7 +82,6 @@
 <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="300" width="300"/>
 </div>
 
-<a href="https://app.daily.dev/dids"><img src="https://api.daily.dev/devcards/v2/Y87WN49UbxMZ7JeMBNmJh.png?type=wide&r=zm0" width="652" alt="Dids Irwyn Reyes's Dev Card"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dids-reyes&theme=dark&show_icons=true) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dids-reyes&theme=green_nur&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
